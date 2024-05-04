@@ -1,3 +1,3 @@
 def call() {
-  sh "echo Hello Team this is Kiran Kumar a new team member"
+  sh "echo Hello Team this is Kiran Kumar new team member"
 }
